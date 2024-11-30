@@ -1,5 +1,5 @@
 <div align = "center">
-<h1> Pokedex 1º Geração de Pokemons </h1>
+<h1> Pokédex 1º Geração de Pokémons </h1>
 </div>
 
 <h3> O que é? </h3> 
