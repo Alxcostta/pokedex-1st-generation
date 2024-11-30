@@ -29,17 +29,21 @@
 <li> HTML: Estrutura básica das páginas. </li>
 <li> CSS: Estilização da interface, tornando-a visualmente agradável e intuitiva. </li>
 <li> PokéAPI: API externa utilizada para obter os dados dos Pokémon, como nomes, tipos e imagens. </li>
+<p></p>
 
 <footer>
-  <div align="center">
-   <a href="" target="_blank">Teste Agora!</a>
+  <h3>
+    <div align="center">
+     <a href="https://pokedex-1st-generation.vercel.app/" target="_blank">Teste Agora!</a>
+  <h3>
+    </div>
 </footer>
 
 <p></p>
 <div align = "center">
-  <img src="" alt="Imagem ilustrativa da Pokedex na versão Desktop"> 
+    <img src="https://github.com/Alxcostta/pokedex-1st-generation/blob/main/assets/images/versao-mobile.png" alt="Imagem ilustrativa da Pokedex na versão mobile"> 
   <p></p>
-  <img src="" alt="Imagem ilustrativa da Pokedex na versão mobile"> 
+  <img src="https://github.com/Alxcostta/pokedex-1st-generation/blob/main/assets/images/versao-desktop.png" alt="Imagem ilustrativa da Pokedex na versão Desktop"> 
   <p></p>
-  <img src="" alt="Imagem ilustrativa da Pokedex na versão mobile"> 
+
 </div>
